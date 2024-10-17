@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shubhayu15
 - 👀 I’m interested in Game and Software Development
-- 🌱 I’m currently learning C#, C++, Python, lua
+- 🌱 I’m currently learning C#, C++, Python, lua, OpenGL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
