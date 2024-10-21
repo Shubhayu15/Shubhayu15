@@ -6,7 +6,7 @@
 - Game Development 🎮 (PSX-style games, FPS, multiplayer, horror, indie)  
 
 🌱 **Currently Learning**:  
-- Advanced C#, C++, Python  
+- Advanced C#, C++, Python , JAVA
 - Lua scripting for game engines  
 - OpenGL and Three.js for graphics programming  
 
