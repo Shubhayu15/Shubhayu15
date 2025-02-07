@@ -10,11 +10,6 @@
 - Lua scripting for game engines  
 - OpenGL and Three.js for graphics programming  
 
-💼 **What I'm Working On**:  
-- **Voxel Engine in Python**: A voxel-based game engine built from scratch  
-- **Travel Planner with Graphs**: An interactive graph-based project to calculate distances between mapped points  
-- **Horror Game Development**: A PSX-style story-driven game with a skinwalker concept  
-
 💞️ **Looking to Collaborate On**:  
 - Open-source game engines  
 - Game jams and prototyping  
