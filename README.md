@@ -45,7 +45,7 @@
 Game developer and AI enthusiast with a passion for creating interactive experiences. I blend technical expertise with creative vision to build immersive games and intelligent systems. My journey spans from indie game development to deep learning research, always seeking the intersection of art and technology.
 
 - 🎯 **Currently**: Working on AI-enhanced procedural content generation systems
-- 🎮 **Achievement**: Winner of the X-Play Game Jam! 🏆
+- 🎮 **Achievement**: Winner of the X-Play Game Jam!, AI-CNN based Hackathon on Gender Classification, C.O.A Expo 2024, TECHKNOW 2023-24, Creative Ingenuity 2024, Codevour 22 & SIH 24
 - 👨‍🎓 **Background**: Computer Science with focus on graphics & artificial intelligence
 - 😄 **Pronouns**: He/Him
 
